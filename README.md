@@ -11,6 +11,8 @@ This repository contains my structured learning journey in Python for Data Scien
 
 ### Day 2 - Python Operators
 - Arithmetic Operators
+- Comparison Operators
+- Logical Operators
 
 ### Day 3 - Data Structures
 - Strings
