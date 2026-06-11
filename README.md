@@ -1,8 +1,20 @@
 # 🚀 Python for Data Science - Learning Series
 
-Welcome to my Python for Data Science learning repository! This repository contains my journey of learning Python, Data Analysis, and SQL through hands-on notebooks and practice exercises.
+Welcome to my Python for Data Science learning repository! This repository contains my journey of learning Python, Data Analysis, Data Visualization and SQL through hands-on notebooks and practice exercises.
 
 📚 Topics Covered
+🐍 Python Fundamentals
+Variables
+Data Types
+Operators
+Strings
+Input / Output
+If-Else Statements
+Loops
+Functions
+Lambda Functions
+Match Case
+Object-Oriented Programming (OOP)
 
 📂 File Handling
 
@@ -28,6 +40,7 @@ Welcome to my Python for Data Science learning repository! This repository conta
 - Reshape Arrays
 - Mathematical Operations
 - Array Statistics
+- Stacking and Splitting Arrays
 
 🐼 Pandas Basics
 
@@ -44,6 +57,7 @@ Welcome to my Python for Data Science learning repository! This repository conta
 - Filtering Data
 - Sorting Data
 - GroupBy Operations
+- Handling Missing Values
 
 🗄️ SQL Basics
 
@@ -59,58 +73,36 @@ Welcome to my Python for Data Science learning repository! This repository conta
 - GROUP BY
 - JOIN
 
+📉 Matplotlib
+
+- Line Plot
+- Scatter Plot
+- Bar Chart
+- Histogram
+- Pie Chart
+- Labels & Titles
+- Legends
+- Grid
+  
+🎨 Seaborn
+
+- Countplot
+- Boxplot
+- Pairplot
+- Heatmap
+- Distribution Plot
+- Correlation Visualization
+
 🛠️ Tools Used
 
 - 🐍 Python
 - 🔢 NumPy
 - 🐼 Pandas
 - 🗄️ SQLite
+- 📈 Matplotlib
+- 🎨 Seaborn
 - 📓 Jupyter Notebook
 - 💻 VS Code
-
-📁 Repository Structure
-
-python_for_data_science/
-
-├── 📂 file_handling
-
-├── 📂 numpy_basics
-
-├── 📂 numpy_advanced
-
-├── 📂 pandas_basics
-
-├── 📂 pandas_advanced
-
-├── 📂 sql_basics
-
-└── 📂 sql_advanced
-
-🎯 Learning Goals
-
-- Build a strong foundation in Data Science.
-- Learn data analysis using NumPy and Pandas.
-- Understand database operations using SQL.
-- Develop practical projects.
-- Build a professional GitHub portfolio.
-
-📌 Current Progress
-
-✅ File Handling
-
-✅ NumPy Basics
-
-✅ NumPy Advanced
-
-✅ Pandas Basics
-
-✅ Pandas Advanced
-
-✅ SQL Basics
-
-✅ SQL Advanced
-
-🚀 More projects and advanced topics coming soon!
 
 👩‍💻 Author
 
