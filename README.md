@@ -3,18 +3,19 @@
 Welcome to my Python for Data Science learning repository! This repository contains my journey of learning Python, Data Analysis, Data Visualization and SQL through hands-on notebooks and practice exercises.
 
 📚 Topics Covered
+
 🐍 Python Fundamentals
-Variables
-Data Types
-Operators
-Strings
-Input / Output
-If-Else Statements
-Loops
-Functions
-Lambda Functions
-Match Case
-Object-Oriented Programming (OOP)
+- Variables
+- Data Types
+- Operators
+- Strings
+- Input / Output
+- If-Else Statements
+- Loops
+- Functions
+- Lambda Functions
+- Match Case
+- Object-Oriented Programming (OOP)
 
 📂 File Handling
 
@@ -103,6 +104,7 @@ Object-Oriented Programming (OOP)
 - 🎨 Seaborn
 - 📓 Jupyter Notebook
 - 💻 VS Code
+
 
 👩‍💻 Author
 
