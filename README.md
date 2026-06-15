@@ -8,14 +8,11 @@ Welcome to my Python for Data Science learning repository! This repository conta
 - Variables
 - Data Types
 - Operators
-- Strings
 - Input / Output
 - If-Else Statements
 - Loops
 - Functions
 - Lambda Functions
-- Match Case
-- Object-Oriented Programming (OOP)
 
 📂 File Handling
 
@@ -41,7 +38,6 @@ Welcome to my Python for Data Science learning repository! This repository conta
 - Reshape Arrays
 - Mathematical Operations
 - Array Statistics
-- Stacking and Splitting Arrays
 
 🐼 Pandas Basics
 
