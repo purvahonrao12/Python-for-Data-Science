@@ -90,6 +90,25 @@ Welcome to my Python for Data Science learning repository! This repository conta
 - Distribution Plot
 - Correlation Visualization
 
+🚀 Engineering Student Productivity Dashboard
+
+# Project Features
+- Data Cleaning using Pandas
+- Data Analysis
+- Productivity Score Calculation
+- Matplotlib Visualizations
+- Seaborn Visualizations
+- Productivity Insights
+
+# Dataset Features
+- Date
+- Study Hours
+- Python Hours
+- College Hours
+- Sleep Hours
+- Exercise Minutes
+- Mood Score
+
 🛠️ Tools Used
 
 - 🐍 Python
